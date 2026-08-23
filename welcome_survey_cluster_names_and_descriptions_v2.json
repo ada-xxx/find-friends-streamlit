@@ -1,0 +1,34 @@
+{
+  "Cluster 0": {
+    "name": "Miłośnicy Wody i Psów",
+    "description": "W tym klastrze znajdują się osoby z wyższym wykształceniem, najczęściej w wieku 35–44 lat. Większość z nich wybiera wypoczynek nad wodą, a ich ulubionymi zwierzętami są przede wszystkim psy. W grupie przeważają mężczyźni."
+  },
+  "Cluster 1": {
+    "name": "Miłośnicy Gór i Psów",
+    "description": "W tym klastrze znajdują się osoby z wyższym wykształceniem, które jako ulubione miejsce zgodnie wskazują góry. Największą grupę stanowią osoby w wieku 45–54 lat, a zdecydowana większość wybiera psy. W grupie przeważają mężczyźni."
+  },
+  "Cluster 2": {
+    "name": "Miłośnicy Gór i Kotów",
+    "description": "W tym klastrze znajdują się osoby z wyższym wykształceniem, najczęściej w wieku 35–44 lat. Niemal wszystkie wybierają góry, a najczęściej wskazywanymi zwierzętami są koty. Jest to grupa o bardziej wyrównanym udziale kobiet i mężczyzn niż większość pozostałych klastrów."
+  },
+  "Cluster 3": {
+    "name": "Miłośnicy Lasów i Psów",
+    "description": "W tym klastrze znajdują się osoby z wyższym wykształceniem, które jako ulubione miejsce zgodnie wskazują las. Największą grupę stanowią osoby w wieku 45–54 lat, a najczęściej wybieranymi zwierzętami są psy. W grupie przeważają mężczyźni."
+  },
+  "Cluster 4": {
+    "name": "Miłośnicy Gór i Różnych Zwierząt",
+    "description": "W tym klastrze znajdują się osoby z wykształceniem średnim, najczęściej wybierające góry. Ich preferencje dotyczące zwierząt są zróżnicowane: najczęściej pojawiają się koty, inne zwierzęta oraz psy. W grupie zdecydowanie przeważają mężczyźni, a wiek uczestników jest bardziej zróżnicowany."
+  },
+  "Cluster 5": {
+    "name": "Osoby Bez Ulubionych Zwierząt",
+    "description": "To niewielki klaster osób, które zgodnie wskazały brak ulubionych zwierząt. Większość ma wyższe wykształcenie i najczęściej wybiera wypoczynek nad wodą, choć w odpowiedziach dotyczących miejsca często brakuje danych. Ze względu na małą liczebność tej grupy jej profil należy interpretować ostrożnie."
+  },
+  "Cluster 6": {
+    "name": "Dojrzali Miłośnicy Wody",
+    "description": "W tym klastrze znajdują się głównie osoby w wieku 45–54 lat z wyższym wykształceniem. Najczęściej wybierają wypoczynek nad wodą, a ich preferencje dotyczące zwierząt są zróżnicowane, choć najczęściej wskazują psy. W grupie przeważają mężczyźni."
+  },
+  "Cluster 7": {
+    "name": "Miłośnicy Wody i Psów ze Średnim Wykształceniem",
+    "description": "W tym klastrze znajdują się osoby z wykształceniem średnim, najczęściej w wieku 35–44 lat. Większość wybiera wypoczynek nad wodą i wskazuje psy jako ulubione zwierzęta. W grupie przeważają mężczyźni."
+  }
+}
